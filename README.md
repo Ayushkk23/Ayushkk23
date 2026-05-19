@@ -1,24 +1,106 @@
-# 💫 About Me:
-💻 I’m currently working on<br>Building Data Analytics & ML projects using Power BI, Python, Snowflake & APIs<br><br>👯 I’m looking to collaborate on<br>Open-source, Data Analytics, Machine Learning & Cloud-based projects<br><br>🤝 I’m looking for help with<br>Advanced ML, Snowflake integrations & scalable data pipelines<br><br>🌱 I’m currently learning<br>Machine Learning, Snowflake, AWS and Advanced Power BI<br><br>💬 Ask me about<br>Power BI dashboards, Python, APIs, Data Visualization & Linux<br><br>⚡ Fun fact<br>I can spend hours fixing one bug and call it “learning” 😭
+<div align="center">
+  <h1>Hi 👋, I'm <a href="https://linkedin.com/in/ayush-kale-">Ayush</a></h1>
+  <p><strong>Data Analyst | ML Enthusiast | Pune, India</strong></p>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yYfydxSZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayush-kale-) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ayushkale__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkale51104@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ayushkk23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ayushkk23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayushkk23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayushkk23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Building+Data+Analytics+Pipelines;Machine+Learning+Enthusiast;Power+BI+%26+Snowflake+Expert;Cloud+%26+Data+Architecture" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ayushkk23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ About Me
+<p align="left">
+  <img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZzZyeXRxNmN6bmZ0ZzR3eXF4ZzZyeXRxNmN6bmZ0ZzR3eXF4JnB0X2luc2lkZT10cnVlJmNjPTE/ZVik7pBtu9dNS/giphy.gif" />
+  
+  - 📊 *Data Analytics:* Building robust data pipelines using Power BI, Python, and Snowflake.
+  - 🤖 *Machine Learning:* Developing advanced ML models and integrating cloud-based APIs.
+  - ☁️ *Architecture:* Designing scalable data architecture and cloud integrations on AWS.
+  - 🌱 *Learning:* Currently diving deeper into Advanced ML, AWS, and complex Snowflake workflows.
+  - 🎯 *Looking for:* Collaborations on open-source, cloud-based data projects, and machine learning.
+  - ⚡ *Fun Fact:* I can spend hours fixing one bug and call it “learning” 😭. When I'm taking a break from the screen, you can usually find me grinding ranks in Valorant!
+</p>
+
+---
+
+### 🧪 Skill Orbit
+
+<div align="left">
+
+#### 🤖 Data Science & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+  <br>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
+
+#### ☁️ Cloud, Databases & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,sqlite" />
+  <br>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,notion,linux" />
+  <br>
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Pulse
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkk23&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkk23&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&text_color=f8f8f2" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkk23&theme=dracula&hide_border=true&background=0D1117&ring=bd93f9&fire=ff79c6&stroke=f8f8f2&currStreakLabel=bd93f9" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayushkk23&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/ayush-kale-" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayushkale51104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/yYfydxSZ" target="blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/ayushkale__" target="blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
+  <br><br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Ayushkk23&icon=0&color=bd93f9" alt="Profile Views" />
+  </a>
+</div>
